@@ -23,7 +23,7 @@ By reviewing the summary and graph, the findings are as follows:**
     the city types:
     1. We should increase the number of drivers in rural cities to ensure have enough drivers to meet 
        ridership demand.
-    2 .Offer ride sharing drivers in rural cities more support by increasing marketing of PyBer services near 
+    2. Offer ride sharing drivers in rural cities more support by increasing marketing of PyBer services near 
        local transportation hubs.
     3. PyBer should initiate a 20% fare increase to urban city riders that would put average fares closer 
        to what rural drivers receive.
