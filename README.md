@@ -19,7 +19,7 @@ By reviewing the summary and graph, the findings are as follows:**
 
 
 ## Summary
-    Based on the results, I have a business recommendation to the CEO for addressing any disparities among the city 
-    types. We should increase the number of drivers in rural cities to ensure have enough drivers to meet ridership 
-    demand.
+    Based on the results, I have a business recommendation to the CEO for addressing any disparities 
+    among the city types. We should increase the number of drivers in rural cities to ensure have 
+    enough drivers to meet ridership demand.
    
